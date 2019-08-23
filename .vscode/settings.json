@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5af346c5-519e-4e00-bb74-71dca30f6d6b/resourceGroups/fullaux/providers/Microsoft.Web/sites/fullaux",
+    "appService.deploySubpath": ""
+}
